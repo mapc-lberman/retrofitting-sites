@@ -1,5 +1,5 @@
 # retrofitting-sites
 
-Shapefile containing sites for "[Rethinking the retail strip](https://github.com/mapc-lberman/retrofitting-sites)" (polygons)
+Shapefile containing sites for "[Rethinking the retail strip](https://mapc.gitbook.io/rethinking-the-retail-strip/)" (polygons)
 
 Preview metadata.xml by opening in Chrome browser.
